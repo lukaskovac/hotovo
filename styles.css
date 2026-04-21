@@ -677,7 +677,7 @@ select {
     gap: 6px;
     color: var(--brand-orange);
     text-decoration: none;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 500;
     align-self: flex-start;
     padding-top: 16px;
@@ -716,7 +716,6 @@ select {
     line-height: 1.4;
     letter-spacing: -0.02em;
     color: var(--content-primary);
-    text-wrap: balance;
 }
 
 @media (max-width: 1200px) {
@@ -823,7 +822,7 @@ select {
     }
 
     .headline {
-        font-size: 64px;
+        font-size: 52px;
     }
 
     .description {
@@ -906,7 +905,7 @@ select {
     }
 
     .headline {
-        font-size: 64px;
+        font-size: 44px;
     }
 
     .service-intro {
@@ -934,9 +933,5 @@ select {
     .plus::after {
         width: 2px;
         height: 18px;
-    }
-
-    .section-headline.white {
-        font-size: 36px;
     }
 }
