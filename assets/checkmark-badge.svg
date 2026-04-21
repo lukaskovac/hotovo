@@ -1,0 +1,6 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="checkmark-badge-02">
+<path id="Vector" d="M18.933 4.22248L15 7.5H9.16667C8.2462 7.5 7.5 8.2462 7.5 9.16667V15L4.22248 18.933C3.70742 19.5512 3.70742 20.4488 4.22248 21.067L7.5 25V30.8333C7.5 31.7538 8.2462 32.5 9.16667 32.5H15L18.933 35.7775C19.5512 36.2927 20.4488 36.2927 21.067 35.7775L25 32.5H30.8333C31.7538 32.5 32.5 31.7538 32.5 30.8333V25L35.7775 21.067C36.2927 20.4488 36.2927 19.5512 35.7775 18.933L32.5 15V9.16667C32.5 8.2462 31.7538 7.5 30.8333 7.5H25L21.067 4.22248C20.4488 3.70742 19.5512 3.70742 18.933 4.22248Z" stroke="var(--stroke-0, #FF6400)" stroke-width="2" stroke-linejoin="round"/>
+<path id="Vector_2" d="M15 21.6667L18.3333 25L25.8333 15.8333" stroke="var(--stroke-0, #FF6400)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
