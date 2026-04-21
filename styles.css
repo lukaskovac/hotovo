@@ -935,4 +935,8 @@ select {
         width: 2px;
         height: 18px;
     }
+
+    .section-headline.white {
+        font-size: 36px;
+    }
 }
