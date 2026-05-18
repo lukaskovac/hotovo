@@ -651,10 +651,13 @@ select {
         display: none;
     }
 
+    .ow-header {
+        margin-bottom: 24px;
+    }
+
     .ow-panels {
         background: none;
         border-radius: 0;
-        border-top: 1px solid #d2c1bc;
         display: flex;
         flex-direction: column;
         gap: 0;
@@ -745,12 +748,12 @@ select {
     }
 
     .ow-panel-inner {
-        gap: 32px;
+        gap: 24px;
         padding: 0;
     }
 
     .ow-panel-inner> :first-child {
-        padding-top: 20px;
+        padding-top: 8px;
     }
 
     .ow-intro {
@@ -804,6 +807,11 @@ select {
 
     .ow-cta-headline {
         font-size: 32px;
+        text-wrap: balance;
+    }
+
+    .ow-cta-text {
+        font-size: 16px;
     }
 }
 
@@ -1484,7 +1492,7 @@ select {
     justify-content: center;
     text-align: center;
     padding: 32px;
-    font-size: 20px;
+    font-size: 14px;
     font-weight: 500;
     line-height: 1.4;
     color: #ffffff;
